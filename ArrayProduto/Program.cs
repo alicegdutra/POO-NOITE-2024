@@ -14,11 +14,16 @@ for(int i = 0; i < vetP.Length; i++)
     Console.Write("Digite a quantidade: ");
     vetP[i].quantidade= Convert.ToInt32(Console.ReadLine());
 }
+double soma 0;
 for(int i = 0; i < vetP.Length; i++)
 {
     vetP[i].MostrarAtributos();
     Console.WriteLine($"Total {vetP[i].ValorTotalEmEstoque():c}");
+    Console.WriteLine($"Total {total:c}");
+    soma = soma + total;
 }
+Console.WriteLine($"Valor total dos produtos {soma:c\n}");
+
 foreach (Produto p in vetP)
 {
     Console.Write("Digite a quantidade vendida:");
