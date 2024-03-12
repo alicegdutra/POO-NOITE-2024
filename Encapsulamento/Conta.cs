@@ -22,8 +22,23 @@ namespace Encapsulamento
         get {
             return this.Numero; //buscar
         }
-
     }
+    //profull - encapsulamento (propriedade) compelto
+    /*private string titular;*/
+    public string Titular
+    {
+        get { return titular; } /* ou this.titular*/
+        set { titular = value; }
+    }
+
+    /*private double saldo;*/
+    public double Saldo
+    {
+        get { return saldo; }
+        set { saldo = value; }
+    }
+    
+    
     /*public void SetNumero(int numeroConta) //parametro para alteração EXEMPLO 1
     {
         numero = numeroConta;
