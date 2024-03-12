@@ -1,0 +1,5 @@
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
