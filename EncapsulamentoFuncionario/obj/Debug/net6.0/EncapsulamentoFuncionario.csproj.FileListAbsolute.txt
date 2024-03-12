@@ -3,3 +3,13 @@ C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Deb
 C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
 C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.AssemblyInfo.cs
 C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.exe
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.deps.json
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.dll
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\bin\Debug\net6.0\EncapsulamentoFuncionario.pdb
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.dll
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\refint\EncapsulamentoFuncionario.dll
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.pdb
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\EncapsulamentoFuncionario.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\POO-NOITE-2024\EncapsulamentoFuncionario\obj\Debug\net6.0\ref\EncapsulamentoFuncionario.dll
