@@ -1,4 +1,12 @@
-﻿/*Console.WriteLine("Olá mundo!!!");
+﻿/* Produto p1 = new Produto(); */
+/* Tipo/classe objeto = alocação de memória Construtor(); */
+
+/* Um MÉTODO (função), pode ou não ter retorno! Um construtor NUNCA terá retorno */
+
+
+
+
+/*Console.WriteLine("Olá mundo!!!");
 System.Console.Write("Digite se ano de nascimento: ");
 int anoNascimento = Convert.ToInt32(Console.ReadLine());
 int idade = 2024 - anoNascimento;
