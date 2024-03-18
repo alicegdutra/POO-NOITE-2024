@@ -13,6 +13,14 @@ namespace EncapsulamentoFuncionario
             get { return nome; }
             set { nome = value; }
         }
+
+        private double saldo;
+        public double Saldo
+        {
+            get { return saldo; }
+            set { saldo = value; }
+        }
+        
         
     }
 }

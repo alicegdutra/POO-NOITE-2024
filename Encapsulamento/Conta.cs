@@ -50,15 +50,15 @@ namespace Encapsulamento
     {
         return numero;
     }
-    public void AlterarNumero(int numeroConta) //parametro para alteração EXEMPLO 2
+    public void AlterarNumero(int numeroConta) parametro para alteração EXEMPLO 2
     {
        numero = numeroConta;
-        //sair um valor de uma função - retorno
-        //estado do objeto - valor que a variável tem
+        sair um valor de uma função - retorno
+        estado do objeto - valor que a variável tem
 
     }
     public int BuscarNumero()
     {
        return numero;
-    //}*/
+    }*/
 }
