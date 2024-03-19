@@ -12,3 +12,5 @@ c3.MostrarAtributos();
 
 Conta c4 = new Conta(50,1, "Alice"); //construtor padrão
 c4.MostrarAtributos();
+
+Console.WriteLine("Quantidade de instâncias: " + Conta.Contador);
