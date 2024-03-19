@@ -10,7 +10,7 @@ c2.MostrarAtributos();
 Conta c3 = new Conta(1,50); //construtor padrão
 c3.MostrarAtributos();
 
-Conta c4 = new Conta(50,1, "Alice"); //construtor padrão
+Conta c4 = new Conta(50,1, "Alice", 12); //construtor padrão
 c4.MostrarAtributos();
 
 Console.WriteLine("Quantidade de instâncias: " + Conta.Contador);
