@@ -45,8 +45,7 @@ namespace ConstrutorConta
         }
         public void MostrarAtributos()
         {
-            Console.WriteLine("Número: " + Numero +
-            "\tTitular: " + Titular + "\tSaldo: " + Saldo);
+            Console.WriteLine("Número: " + Numero + "\tTitular: " + Titular + "\tSaldo: " + Saldo);
         }
         
     }
