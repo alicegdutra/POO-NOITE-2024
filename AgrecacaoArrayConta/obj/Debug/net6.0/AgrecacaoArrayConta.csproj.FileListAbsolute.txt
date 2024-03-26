@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\AgrecacaoArrayConta.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\AgrecacaoArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\AgrecacaoArrayConta.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\AgrecacaoArrayConta.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\AgrecacaoArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\bin\Debug\net6.0\AgrecacaoArrayConta.exe
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\bin\Debug\net6.0\AgrecacaoArrayConta.deps.json
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\bin\Debug\net6.0\AgrecacaoArrayConta.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\bin\Debug\net6.0\AgrecacaoArrayConta.dll
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\bin\Debug\net6.0\AgrecacaoArrayConta.pdb
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\AgrecacaoArrayConta.dll
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\refint\AgrecacaoArrayConta.dll
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\AgrecacaoArrayConta.pdb
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\AgrecacaoArrayConta.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\POO-NOITE-2024\AgrecacaoArrayConta\obj\Debug\net6.0\ref\AgrecacaoArrayConta.dll
