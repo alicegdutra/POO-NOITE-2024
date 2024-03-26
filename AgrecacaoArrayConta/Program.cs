@@ -1,4 +1,4 @@
-﻿using AgregacaoArrayConta;
+﻿using AgrecacaoArrayConta;
 
 Conta c1 = new Conta();
 c1.Numero = 1;
