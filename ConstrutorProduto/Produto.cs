@@ -22,13 +22,13 @@ namespace ConstrutorProduto
             Contador ++;
         }
 
-         public Produto(int codigo)
+        public Produto(int codigo)
         {
             Codigo =  codigo;
             Contador ++;
         }
 
-         public Produto(int codigo, double preco)
+        public Produto(int codigo, double preco)
         {
             Codigo =  codigo;
             Preco = preco;

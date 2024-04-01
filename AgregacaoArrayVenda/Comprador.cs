@@ -1,0 +1,12 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace AgregacaoArrayVenda
+{
+    public class Comprador
+    {
+        public double Venda { get; set; }
+    }
+}
